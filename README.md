@@ -1,6 +1,6 @@
 
 
-# IBM Machine Learning Professional Certificate
+# IBM Machine Learning Professional Certificate Coursera
 
 ![IBM Machine Learning Professional Certificate](https://www.ibm.com/thought-leadership/data-ai/images/THINK-2020-Personal.png)
 
